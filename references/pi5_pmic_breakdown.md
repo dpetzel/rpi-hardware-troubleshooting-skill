@@ -27,8 +27,26 @@ own testing and information available on the Internet.
       Can be either Renesas or Dialog
     </td>
   </tr>
-  <tr><td>1</td></tr>
-  <tr><td>2</td></tr>
+  <tr><td>1</td>
+    <td>Inductor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="https://magazine.raspberrypi.com/articles/raspberry-pi-5">Inductor Indentification</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr><td>2</td>
+    <td>Inductor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="https://magazine.raspberrypi.com/articles/raspberry-pi-5">Inductor Indentification</a>
+    </td>
+    <td></td>
+  </tr>
   <tr>
     <td>3</td>
     <td>Capacitor</td>
@@ -40,8 +58,26 @@ own testing and information available on the Internet.
     </td>
     <td></td>
   </tr>
-  <tr><td>4</td></tr>
-  <tr><td>5</td></tr>
+  <tr><td>4</td>
+    <td>Inductor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="https://magazine.raspberrypi.com/articles/raspberry-pi-5">Inductor Indentification</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr><td>5</td>
+      <td>Inductor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="https://magazine.raspberrypi.com/articles/raspberry-pi-5">Inductor Indentification</a>
+    </td>
+    <td></td>
+  </tr>
   <tr><td>6</td></tr>
   <tr><td>7</td>
     <td>Capacitor</td>
@@ -91,7 +127,16 @@ own testing and information available on the Internet.
     <td></td>
     <td>self-measured</td>
   </tr>
-  <tr><td>15</td></tr>
+  <tr><td>15</td>
+    <td>Inductor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="https://magazine.raspberrypi.com/articles/raspberry-pi-5">Inductor Indentification</a>
+    </td>
+    <td></td>
+  </tr>
   <tr><td>16</td>
     <td>Capacitor</td>
     <td></td>
@@ -120,7 +165,16 @@ own testing and information available on the Internet.
     <td></td>
     <td>self-measured</td>
   </tr>
-  <tr><td>19</td></tr>
+  <tr><td>19</td>
+    <td>Inductor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="https://magazine.raspberrypi.com/articles/raspberry-pi-5">Inductor Indentification</a>
+    </td>
+    <td></td>
+  </tr>
   <tr><td>20</td></tr>
   <tr><td>21</td></tr>
   <tr><td>22</td></tr>
@@ -135,7 +189,16 @@ own testing and information available on the Internet.
   <tr><td>24</td></tr>
   <tr><td>25</td></tr>
   <tr><td>26</td></tr>
-  <tr><td>27</td></tr>
+  <tr><td>27</td>
+    <td>Inductor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="https://magazine.raspberrypi.com/articles/raspberry-pi-5">Inductor Indentification</a>
+    </td>
+    <td></td>
+  </tr>
   <tr><td>28</td>
     <td>Capacitor</td>
     <td></td>
@@ -162,7 +225,16 @@ own testing and information available on the Internet.
     <td></td>
     <td>self-measured</td>
   </tr>
-  <tr><td>31</td></tr>
+  <tr><td>31</td>
+    <td>Inductor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="https://magazine.raspberrypi.com/articles/raspberry-pi-5">Inductor Indentification</a>
+    </td>
+    <td></td>
+  </tr>
   <tr><td>32</td>
     <td>Capacitor</td>
     <td></td>
@@ -183,7 +255,16 @@ own testing and information available on the Internet.
     </td>
     <td></td>
   </tr>
-  <tr><td>34</td></tr>
+  <tr><td>34</td>
+    <td>Inductor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="https://magazine.raspberrypi.com/articles/raspberry-pi-5">Inductor Indentification</a>
+    </td>
+    <td></td>
+  </tr>
   <tr><td>35</td>
     <td>Capacitor</td>
     <td>0402</td>
@@ -220,7 +301,16 @@ own testing and information available on the Internet.
     <td></td>
     <td>self-measured</td>
   </tr>
-  <tr><td>39</td></tr>
+  <tr><td>39</td>
+    <td>Inductor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="https://magazine.raspberrypi.com/articles/raspberry-pi-5">Inductor Indentification</a>
+    </td>
+    <td></td>
+  </tr>
   <tr><td>40</td>
     <td>Capacitor</td>
     <td>0402</td>
@@ -257,6 +347,15 @@ own testing and information available on the Internet.
     </td>
     <td></td>
   </tr>
-  <tr><td>44</td></tr>
+  <tr><td>44</td>
+    <td>Inductor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="https://magazine.raspberrypi.com/articles/raspberry-pi-5">Inductor Indentification</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
