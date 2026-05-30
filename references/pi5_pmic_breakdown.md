@@ -93,7 +93,14 @@ own testing and information available on the Internet.
   <tr><td>20</td></tr>
   <tr><td>21</td></tr>
   <tr><td>22</td></tr>
-  <tr><td>23</td></tr>
+  <tr><td>23</td>
+    <td>Capacitor</td>
+    <td></td>
+    <td></td>
+    <td>5v</td>
+    <td></td>
+    <td>self-measured</td>
+  </tr>
   <tr><td>24</td></tr>
   <tr><td>25</td></tr>
   <tr><td>26</td></tr>
@@ -129,7 +136,14 @@ own testing and information available on the Internet.
   </tr>
   <tr><td>36</td></tr>
   <tr><td>37</td></tr>
-  <tr><td>38</td></tr>
+  <tr><td>38</td>
+    <td>Capacitor</td>
+    <td>0402</td>
+    <td></td>
+    <td>5v</td>
+    <td></td>
+    <td>self-measured</td>
+  </tr>
   <tr><td>39</td></tr>
   <tr><td>40</td>
     <td>Capacitor</td>
