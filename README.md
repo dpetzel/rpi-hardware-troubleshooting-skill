@@ -22,7 +22,9 @@ rpi-hardware-troubleshooting/
 │   ├── boot-sequence.md  # Boot diagnostics by model
 │   ├── led-codes.md      # LED status codes
 │   ├── peripheral-issues.md # Common peripheral problems
-│   └── model-specs.md    # Key specs and known issues per model
+│   ├── model-specs.md    # Key specs and known issues per model
+│   ├── pi5_pmic_breakdown.md # Pi 5 PMIC area component map
+│   └── raspberrypi5-pmic_area_indexed.png # Indexed photo of PMIC area
 ├── CONTRIBUTING.md
 └── README.md
 ```

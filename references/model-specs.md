@@ -9,6 +9,7 @@
 - Display: 2x micro-HDMI (4Kp60)
 - Boot: Onboard EEPROM, supports SD/USB/NVMe/network
 - Notable: Real-time clock (needs battery), dedicated UART connector, PCIe
+- PMIC: DA9091 (Renesas/Dialog) — see [pi5_pmic_breakdown.md](pi5_pmic_breakdown.md) for component map
 
 ## Pi 4 Model B (2019)
 - SoC: BCM2711 (Cortex-A72 quad-core, 1.5GHz/1.8GHz)

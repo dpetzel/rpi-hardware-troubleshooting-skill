@@ -29,6 +29,7 @@
 4. **GPIO backfeed** — Powering via GPIO 5V pins bypasses protection; must be exactly 5V
 5. **PoE HAT issues** — Some PoE switches don't negotiate correctly
 6. **Pi 5 power button** — Single press = soft shutdown, hold = hard off; can appear "dead" if in halt state
+7. **Pi 5 PMIC component failure** — Damaged capacitors or PMIC itself; see [pi5_pmic_breakdown.md](pi5_pmic_breakdown.md) for component-level reference
 
 ## Diagnostic Steps
 

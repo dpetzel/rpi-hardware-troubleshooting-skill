@@ -63,6 +63,7 @@ Use these for detailed diagnostic data when needed:
 - [references/led-codes.md](references/led-codes.md) — LED blink patterns and meanings
 - [references/peripheral-issues.md](references/peripheral-issues.md) — USB, GPIO, HDMI, camera, network, audio
 - [references/model-specs.md](references/model-specs.md) — Specs and known failure modes per model
+- [references/pi5_pmic_breakdown.md](references/pi5_pmic_breakdown.md) — Pi 5 PMIC area component map and power rail identification
 
 ### Response Format
 
