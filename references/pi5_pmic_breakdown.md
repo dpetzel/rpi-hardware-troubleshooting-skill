@@ -11,7 +11,17 @@ own testing and information available on the Internet.
   <tr>
     <th>#</th><th>Type</th><th>Form Factor</th><th>Value</th><th>Voltage</th><th>Links</th><th>Notes</th>
   </tr>
-  <tr><td>0</td></tr>
+  <tr>
+    <td>0</td>
+    <td></td>
+    <td>QFN</td>
+    <td></td>
+    <td>multiple</td>
+    <td>
+      [PiHut Item](https://thepihut.com/products/da9091-pmic-5-pack)
+    </td>
+    <td>This is the PMIC itself.</td>
+  </tr>
   <tr><td>1</td></tr>
   <tr><td>2</td></tr>
   <tr><td>3</td></tr>
