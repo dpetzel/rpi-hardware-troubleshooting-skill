@@ -192,8 +192,26 @@ own testing and information available on the Internet.
     <td></td>
     <td>self-measured</td>
   </tr>
-  <tr><td>36</td></tr>
-  <tr><td>37</td></tr>
+  <tr><td>36</td>
+    <td>Capacitor</td>
+    <td>0402</td>
+    <td>4.7µF</td>
+    <td></td>
+    <td>
+      <a href="https://forums.raspberrypi.com/viewtopic.php?p=2284048#p2284119">Value Source</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr><td>37</td>
+    <td>Capacitor</td>
+    <td>0402</td>
+    <td>4.7µF</td>
+    <td></td>
+    <td>
+      <a href="https://forums.raspberrypi.com/viewtopic.php?p=2284048#p2284119">Value Source</a>
+    </td>
+    <td></td>
+  </tr>
   <tr><td>38</td>
     <td>Capacitor</td>
     <td>0402</td>
