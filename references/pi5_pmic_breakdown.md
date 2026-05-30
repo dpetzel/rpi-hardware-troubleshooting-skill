@@ -5,4 +5,7 @@ own testing and information available on the Internet.
 
 ## Components
 
+![Indexed Component List](./raspberrypi5-pmic_area_indexed.png)
+
+
 
