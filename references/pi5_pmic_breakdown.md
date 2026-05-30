@@ -30,7 +30,14 @@ own testing and information available on the Internet.
   <tr><td>4</td></tr>
   <tr><td>5</td></tr>
   <tr><td>6</td></tr>
-  <tr><td>7</td></tr>
+  <tr><td>7</td>
+    <td>Capacitor</td>
+    <td>0402</td>
+    <td></td>
+    <td>5v</td>
+    <td></td>
+    <td>self-measured</td>
+  </tr>
   <tr>
     <td>8</td>
     <td>Capacitor</td>
@@ -42,10 +49,24 @@ own testing and information available on the Internet.
         <li><a href="https://www.digikey.com/short/d4jwf15w">DigiKey</a></li>
       </ul>
     </td>
-    <td>Self measured - off board</td>
+    <td>Self measured</td>
   </tr>
-  <tr><td>9</td></tr>
-  <tr><td>10</td></tr>
+  <tr><td>9</td>
+    <td>Capacitor</td>
+    <td>0402</td>
+    <td></td>
+    <td>5v</td>
+    <td></td>
+    <td>self-measured</td>
+  </tr>
+  <tr><td>10</td>
+    <td>Capacitor</td>
+    <td>0402</td>
+    <td></td>
+    <td>5v</td>
+    <td></td>
+    <td>self-measured</td>
+  </tr>
   <tr><td>11</td></tr>
   <tr><td>12</td></tr>
   <tr><td>13</td></tr>
