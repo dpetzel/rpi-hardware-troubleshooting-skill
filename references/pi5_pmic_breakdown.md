@@ -70,11 +70,25 @@ own testing and information available on the Internet.
   <tr><td>11</td></tr>
   <tr><td>12</td></tr>
   <tr><td>13</td></tr>
-  <tr><td>14</td></tr>
+  <tr><td>14</td>
+    <td>Capacitor</td>
+    <td>0402</td>
+    <td></td>
+    <td>5v</td>
+    <td></td>
+    <td>self-measured</td>
+  </tr>
   <tr><td>15</td></tr>
   <tr><td>16</td></tr>
   <tr><td>17</td></tr>
-  <tr><td>18</td></tr>
+  <tr><td>18</td>
+    <td>Capacitor</td>
+    <td>0402</td>
+    <td></td>
+    <td>5v</td>
+    <td></td>
+    <td>self-measured</td>
+  </tr>
   <tr><td>19</td></tr>
   <tr><td>20</td></tr>
   <tr><td>21</td></tr>
@@ -85,19 +99,54 @@ own testing and information available on the Internet.
   <tr><td>26</td></tr>
   <tr><td>27</td></tr>
   <tr><td>28</td></tr>
-  <tr><td>29</td></tr>
-  <tr><td>30</td></tr>
+  <tr><td>29</td>
+    <td>Capacitor</td>
+    <td>0402</td>
+    <td></td>
+    <td>5v</td>
+    <td></td>
+    <td>self-measured</td>
+  </tr>
+  <tr><td>30</td>
+    <td>Capacitor</td>
+    <td>0402</td>
+    <td></td>
+    <td>5v</td>
+    <td></td>
+    <td>self-measured</td>
+  </tr>
   <tr><td>31</td></tr>
   <tr><td>32</td></tr>
   <tr><td>33</td></tr>
   <tr><td>34</td></tr>
-  <tr><td>35</td></tr>
+  <tr><td>35</td>
+    <td>Capacitor</td>
+    <td>0402</td>
+    <td></td>
+    <td>5v</td>
+    <td></td>
+    <td>self-measured</td>
+  </tr>
   <tr><td>36</td></tr>
   <tr><td>37</td></tr>
   <tr><td>38</td></tr>
   <tr><td>39</td></tr>
-  <tr><td>40</td></tr>
-  <tr><td>41</td></tr>
+  <tr><td>40</td>
+    <td>Capacitor</td>
+    <td>0402</td>
+    <td></td>
+    <td>5v</td>
+    <td></td>
+    <td>self-measured</td>
+  </tr>
+  <tr><td>41</td>
+    <td>Capacitor</td>
+    <td>0402</td>
+    <td></td>
+    <td>5v</td>
+    <td></td>
+    <td>self-measured</td>
+  </tr>
   <tr><td>42</td></tr>
   <tr><td>43</td></tr>
   <tr><td>44</td></tr>
