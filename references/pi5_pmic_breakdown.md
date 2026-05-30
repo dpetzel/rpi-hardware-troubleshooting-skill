@@ -200,7 +200,7 @@ own testing and information available on the Internet.
     <td>
       <a href="https://forums.raspberrypi.com/viewtopic.php?p=2284048#p2284119">Value Source</a>
     </td>
-    <td></td>
+    <td>0402 4u7 6V3 X5R</td>
   </tr>
   <tr><td>37</td>
     <td>Capacitor</td>
@@ -210,7 +210,7 @@ own testing and information available on the Internet.
     <td>
       <a href="https://forums.raspberrypi.com/viewtopic.php?p=2284048#p2284119">Value Source</a>
     </td>
-    <td></td>
+    <td>0402 4u7 6V3 X5R</td>
   </tr>
   <tr><td>38</td>
     <td>Capacitor</td>
