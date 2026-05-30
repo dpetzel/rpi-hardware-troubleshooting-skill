@@ -55,6 +55,22 @@ Different Pi models have different power requirements, boot indicators, common f
 
 Refer to [references/model-specs.md](references/model-specs.md) for per-model specifications and known hardware failure modes.
 
+### Official Documentation
+
+Prefer linking to official Raspberry Pi documentation over duplicating it locally. The local reference files in this skill should contain information that is:
+- Community-sourced and not available in official docs (e.g., test point maps, PMIC component identification)
+- Consolidated from multiple scattered forum posts into a single reference
+- Specific diagnostic procedures not covered officially
+
+For topics well-covered by official docs, reference the URL rather than copying content. This avoids drift as the official docs are updated. Key official references:
+- LED blink codes: https://www.raspberrypi.com/documentation/computers/configuration.html#led-behaviour
+- Boot diagnostics: https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#boot-diagnostics
+- Boot EEPROM: https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#raspberry-pi-boot-eeprom
+- Power supply specs: https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#power-supply
+- Pi 5 power/PMIC device tree info (power_reset reasons, USB-PD negotiation, max_current): https://www.raspberrypi.com/documentation/computers/configuration.html#power-supply-properties-chosenpower
+- UART debug probe setup: https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#raspberry-pi-bootloader-configuration
+- GPIO pinout: https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#gpio
+
 ### Reference Files
 
 Use these for detailed diagnostic data when needed:
@@ -64,6 +80,8 @@ Use these for detailed diagnostic data when needed:
 - [references/peripheral-issues.md](references/peripheral-issues.md) — USB, GPIO, HDMI, camera, network, audio
 - [references/model-specs.md](references/model-specs.md) — Specs and known failure modes per model
 - [references/pi5_pmic_breakdown.md](references/pi5_pmic_breakdown.md) — Pi 5 PMIC area component map and power rail identification
+- [references/pi5_test_point_voltages.md](references/pi5_test_point_voltages.md) — Pi 5 underside test point voltage reference (community-sourced)
+- [references/pi5_recovery.md](references/pi5_recovery.md) — Pi 5 rpiboot/usbboot recovery procedures for dead or bricked boards
 
 ### Response Format
 
