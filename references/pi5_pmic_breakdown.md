@@ -92,8 +92,26 @@ own testing and information available on the Internet.
     <td>self-measured</td>
   </tr>
   <tr><td>15</td></tr>
-  <tr><td>16</td></tr>
-  <tr><td>17</td></tr>
+  <tr><td>16</td>
+    <td>Capacitor</td>
+    <td></td>
+    <td></td>
+    <td>0.8v</td>
+    <td>
+      <a href="https://forums.raspberrypi.com/viewtopic.php?t=374141&start=25#p2240900">Voltage Source</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr><td>17</td>
+    <td>Capacitor</td>
+    <td></td>
+    <td></td>
+    <td>1.1v</td>
+    <td>
+      <a href="https://forums.raspberrypi.com/viewtopic.php?t=374141&start=25#p2240900">Voltage Source</a>
+    </td>
+    <td></td>
+  </tr>
   <tr><td>18</td>
     <td>Capacitor</td>
     <td>0402</td>
@@ -118,7 +136,16 @@ own testing and information available on the Internet.
   <tr><td>25</td></tr>
   <tr><td>26</td></tr>
   <tr><td>27</td></tr>
-  <tr><td>28</td></tr>
+  <tr><td>28</td>
+    <td>Capacitor</td>
+    <td></td>
+    <td></td>
+    <td>0.6v</td>
+    <td>
+      <a href="https://forums.raspberrypi.com/viewtopic.php?t=374141&start=25#p2240900">Voltage Source</a>
+    </td>
+    <td></td>
+  </tr>
   <tr><td>29</td>
     <td>Capacitor</td>
     <td>0402</td>
@@ -136,8 +163,26 @@ own testing and information available on the Internet.
     <td>self-measured</td>
   </tr>
   <tr><td>31</td></tr>
-  <tr><td>32</td></tr>
-  <tr><td>33</td></tr>
+  <tr><td>32</td>
+    <td>Capacitor</td>
+    <td></td>
+    <td></td>
+    <td>1.1v</td>
+    <td>
+      <a href="https://forums.raspberrypi.com/viewtopic.php?t=374141&start=25#p2240900">Voltage Source</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr><td>33</td>
+    <td>Capacitor</td>
+    <td></td>
+    <td></td>
+    <td>1.8v</td>
+    <td>
+      <a href="https://forums.raspberrypi.com/viewtopic.php?t=374141&start=25#p2240900">Voltage Source</a>
+    </td>
+    <td></td>
+  </tr>
   <tr><td>34</td></tr>
   <tr><td>35</td>
     <td>Capacitor</td>
@@ -174,8 +219,26 @@ own testing and information available on the Internet.
     <td></td>
     <td>self-measured</td>
   </tr>
-  <tr><td>42</td></tr>
-  <tr><td>43</td></tr>
+  <tr><td>42</td>
+    <td>Capacitor</td>
+    <td></td>
+    <td></td>
+    <td>3.3v</td>
+    <td>
+      <a href="https://forums.raspberrypi.com/viewtopic.php?t=374141&start=25#p2240900">Voltage Source</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr><td>43</td>
+    <td>Capacitor</td>
+    <td></td>
+    <td></td>
+    <td>3.7v</td>
+    <td>
+      <a href="https://forums.raspberrypi.com/viewtopic.php?t=374141&start=25#p2240900">Voltage Source</a>
+    </td>
+    <td></td>
+  </tr>
   <tr><td>44</td></tr>
 </table>
 
