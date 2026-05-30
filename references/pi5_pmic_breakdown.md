@@ -29,7 +29,17 @@ own testing and information available on the Internet.
   </tr>
   <tr><td>1</td></tr>
   <tr><td>2</td></tr>
-  <tr><td>3</td></tr>
+  <tr>
+    <td>3</td>
+    <td>Capacitor</td>
+    <td></td>
+    <td></td>
+    <td>0.8v</td>
+    <td>
+      <a href="https://forums.raspberrypi.com/viewtopic.php?t=374141&start=25#p2240900">Voltage Source</a>
+    </td>
+    <td></td>
+  </tr>
   <tr><td>4</td></tr>
   <tr><td>5</td></tr>
   <tr><td>6</td></tr>
