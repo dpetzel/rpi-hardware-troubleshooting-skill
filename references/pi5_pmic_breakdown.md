@@ -9,7 +9,7 @@ own testing and information available on the Internet.
 
 <table>
   <tr>
-    <th>#</th><th>Type</th><th>Form Factor</th><th>Value</th><th>Voltage</th><th>Links</th><th>Notes</th>
+    <th>#</th><th>Type</th><th>Package</th><th>Value</th><th>Power Rail</th><th>Links</th><th>Notes</th>
   </tr>
   <tr>
     <td>0</td>
@@ -22,7 +22,7 @@ own testing and information available on the Internet.
         <li><a href="https://thepihut.com/products/da9091-pmic-5-pack">Pi Hut Item</a></li>
       </ul>
     </td>
-    <td>This is the PMIC itself.</td>
+    <td>This is the PMIC itself. As of 2026-05-29 Pi Hut seems to be the only place to source one.</td>
   </tr>
   <tr><td>1</td></tr>
   <tr><td>2</td></tr>
@@ -31,7 +31,19 @@ own testing and information available on the Internet.
   <tr><td>5</td></tr>
   <tr><td>6</td></tr>
   <tr><td>7</td></tr>
-  <tr><td>8</td></tr>
+  <tr>
+    <td>8</td>
+    <td>Capacitor</td>
+    <td>0402</td>
+    <td>22µF</td>
+    <td>5v</td>
+    <td>
+      <ul>
+        <li><a href="https://www.digikey.com/short/d4jwf15w">DigiKey</a></li>
+      </ul>
+    </td>
+    <td>Self measured - off board</td>
+  </tr>
   <tr><td>9</td></tr>
   <tr><td>10</td></tr>
   <tr><td>11</td></tr>
