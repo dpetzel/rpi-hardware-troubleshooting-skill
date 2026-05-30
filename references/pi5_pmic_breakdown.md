@@ -23,8 +23,8 @@ own testing and information available on the Internet.
       </ul>
     </td>
     <td>This is the PMIC itself. As of 2026-05-29 Pi Hut seems to be the only place to source one.
+      <br />
       Can be either Renesas or Dialog
-    
     </td>
   </tr>
   <tr><td>1</td></tr>
