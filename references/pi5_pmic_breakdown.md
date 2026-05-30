@@ -22,7 +22,10 @@ own testing and information available on the Internet.
         <li><a href="https://thepihut.com/products/da9091-pmic-5-pack">Pi Hut Item</a></li>
       </ul>
     </td>
-    <td>This is the PMIC itself. As of 2026-05-29 Pi Hut seems to be the only place to source one.</td>
+    <td>This is the PMIC itself. As of 2026-05-29 Pi Hut seems to be the only place to source one.<br />
+      Can be either Renesas or Dialog
+    
+    </td>
   </tr>
   <tr><td>1</td></tr>
   <tr><td>2</td></tr>
