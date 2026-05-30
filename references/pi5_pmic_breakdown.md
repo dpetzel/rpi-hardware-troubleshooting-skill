@@ -18,7 +18,7 @@ own testing and information available on the Internet.
     <td></td>
     <td>multiple</td>
     <td>
-      [PiHut Item](https://thepihut.com/products/da9091-pmic-5-pack)
+      <a href="https://thepihut.com/products/da9091-pmic-5-pack">Pi Hut Item</a>
     </td>
     <td>This is the PMIC itself.</td>
   </tr>
