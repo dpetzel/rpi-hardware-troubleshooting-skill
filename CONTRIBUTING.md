@@ -1,6 +1,7 @@
 # Contributing
 
-This skill is designed to evolve. Hardware changes, new Pi models ship, and real-world troubleshooting reveals patterns not covered here.
+This skill is designed to evolve. Hardware changes, new Pi models ship, and real-world troubleshooting reveals
+patterns not covered here.
 
 ## What to Contribute
 
