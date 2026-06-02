@@ -1,10 +1,12 @@
 # rpi-hardware-troubleshooting
 
-An [Agent Skill](https://agentskills.io) for interactive diagnosis and debugging of Raspberry Pi hardware issues across all models.
+An [Agent Skill](https://agentskills.io) for interactive diagnosis and debugging of Raspberry Pi hardware issues
+across all models.
 
 ## Philosophy
 
-This skill uses a **top-down elimination** approach. Rather than diving into edge cases, it guides users through questions that eliminate the largest remaining variables first:
+This skill uses a **top-down elimination** approach. Rather than diving into edge cases, it guides users through
+questions that eliminate the largest remaining variables first:
 
 1. **Power** — Is the device receiving adequate power?
 2. **Boot** — Does the device show signs of life?
@@ -33,7 +35,8 @@ Conforms to the [Agent Skills specification](https://agentskills.io/specificatio
 
 ## Usage
 
-Add this skill directory to your agent's skill path. The agent will read the `SKILL.md` frontmatter to decide when to activate it, then load the full instructions when a user describes a Raspberry Pi hardware problem.
+Add this skill directory to your agent's skill path. The agent will read the `SKILL.md` frontmatter to decide when
+to activate it, then load the full instructions when a user describes a Raspberry Pi hardware problem.
 
 ## Contributing
 

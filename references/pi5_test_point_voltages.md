@@ -114,6 +114,8 @@ community-created color-coded image.
 
 - This is a community-sourced reference, not official Raspberry Pi Foundation documentation.
 - TP22, TP59, and TP75 are not present in the source image. They may not exist or may be on the top side of the board.
-- The source image uses similar shades of green for +0.8V, +0.9V, and +0.95V. Test points marked +0.8-0.9V could not be distinguished between those values visually.
-- The distinction between "0V" (orange in source) and "GND" (black in source) is as marked in the original image. Both may be ground references but are color-coded differently by the original author.
+- The source image uses similar shades of green for +0.8V, +0.9V, and +0.95V. Test points marked +0.8-0.9V could
+  not be distinguished between those values visually.
+- The distinction between "0V" (orange in source) and "GND" (black in source) is as marked in the original image.
+  Both may be ground references but are color-coded differently by the original author.
 - Two test points on the board have colored dots but no visible label in the image.
