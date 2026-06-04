@@ -74,5 +74,6 @@
 | Pi 4 | Thermal throttling | Slowdowns under sustained load |
 | Pi 4 | EEPROM corruption | Won't boot from any media |
 | Pi 3B+ | USB/ethernet hub chip failure | All USB + ethernet dead simultaneously |
+| Pi 3B+ | 19.2MHz crystal (X2) dead | All rails healthy, SoC cold, no boot activity at all |
 | Pi 3 | SD card slot wear | Intermittent boot failures |
 | Pi Zero | Micro-USB port fragility | Loose connection, intermittent power |
