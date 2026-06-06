@@ -4,6 +4,8 @@ Community-sourced test point map for Raspberry Pi 3 Model B and 3 Model B+. Test
 
 ## Test Point Map
 
+![Pi 3 Test Point Map](pi3-b-r1.2-test_point_map.jpg)
+
 | Pad | Function | Expected Voltage | Notes |
 |-----|----------|-----------------|-------|
 | PP1 | VCC +5V (from micro-USB) | 4.8–5.25V | Before polyfuse |
