@@ -73,6 +73,8 @@
 | Pi 4 (rev 1.1) | USB-C e-marked cable rejection | No power with some cables |
 | Pi 4 | Thermal throttling | Slowdowns under sustained load |
 | Pi 4 | EEPROM corruption | Won't boot from any media |
+| Pi 4 | SD slot partial read failure | Rainbow screen (start4.elf loads but kernel read fails); boots fine from USB. Slot detects card presence but data lines unreliable. Reflow or replace Molex 1040310811 |
+| Pi 4 | USB KVM/hub backfeed at boot | ~19mA draw, SoC never starts, green LED dark. Remove USB device → normal boot. Usually the KVM, not the board |
 | Pi 3B+ | USB/ethernet hub chip failure | All USB + ethernet dead simultaneously |
 | Pi 3B+ | 19.2MHz crystal (X2) dead | All rails healthy, SoC cold, no boot activity at all |
 | Pi 3 | SD card slot wear | Intermittent boot failures |

@@ -7,12 +7,20 @@
 - **Pi 4 USB 3.0 interference**: USB 3.0 devices can interfere with 2.4GHz Wi-Fi/Bluetooth (shielding helps)
 - **USB boot not working**: Pi 4/5 need EEPROM configured for USB boot; Pi 3B+ supports it natively
 
+### Pi 4: USB Device Prevents Boot (Near-Zero Power Draw)
+- **Symptom**: Board draws ~19mA (standby) when certain USB devices (particularly KVMs and powered hubs) are connected at power-on. SoC never starts. Red LED on, green LED never blinks. Removing the USB device while powered restores normal startup.
+- **Cause**: Some KVMs/hubs backfeed voltage on VBUS or present an electrical condition that prevents the PMIC from completing power sequencing.
+- **Key diagnostic**: Measure current draw at power-on. Normal idle is ~600-650mA. If it's under 100mA with a USB device attached, the SoC isn't starting.
+- **Differentiation**: A simple device (mouse, keyboard) directly connected will typically boot fine. Hub/KVM at power-on triggers the fault. This is usually the KVM/hub, not the board — verify by testing the same KVM on a known-good Pi 4.
+- **Workaround**: Connect the KVM/hub after boot, or use a device that doesn't backfeed.
+
 ### Diagnostic Steps
 1. Does the device work on another computer?
 2. Try a different port (USB 2 vs USB 3 on Pi 4/5)
 3. Try with powered hub
 4. Check `lsusb` — device enumerated?
 5. Check `dmesg | tail` for connection/disconnect spam (power issue sign)
+6. If board won't start with USB attached: measure power draw — near-zero means PMIC stall, not boot order issue
 
 ## GPIO
 

@@ -101,10 +101,16 @@ Keep responses concise:
 
 At the start of every troubleshooting session, create a file called `rpi-troubleshoot-log.md` in the current working directory. Update it after each diagnostic step. This allows sessions to be resumed later.
 
+**Important:** If a `repair/notes.md` file exists in the working directory, it belongs to the user. **Never** read from or write to `notes.md` — only use `rpi-troubleshoot-log.md` for Kiro's diagnostic tracking.
+
 **Format:**
 
 ```markdown
 # RPi Troubleshooting Log
+
+## Session
+- Kiro Session ID: [value of $KIRO_SESSION_ID]
+- Last Updated: [timestamp]
 
 ## Device
 - Model: [identified model]
@@ -136,6 +142,7 @@ Try a fresh SD card with a known-good Raspberry Pi OS image.
 - Mark checklist items `[x]` when confirmed working, `[-]` when confirmed faulty, `[ ]` when unchecked
 - Append every question/answer exchange to the diagnostic log table
 - Update "Current Hypothesis" and "Next Step" after each exchange
+- **Always** update the `Kiro Session ID` and `Last Updated` fields from the `$KIRO_SESSION_ID` environment variable at the start of every session interaction
 - If the user says they're resuming a previous session, read the existing `rpi-troubleshoot-log.md` and continue from where it left off
 
 ### Resolution
