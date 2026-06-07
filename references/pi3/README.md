@@ -18,7 +18,7 @@
 | X1 | 19.2 MHz Crystal | Reference clock | Near SD card slot |
 
 ## Reference Documents
-- [Pi 3B+ Voltage Reference](pi3-bplus-voltages-bottom.md)
+- [Pi 3B+ Voltage Reference](Pi 3 B Plus Voltage References.md) - Voltage readings at various locations of the board
 - [Test Points](pi3_test_points.md) — voltage test pads and diagnostic measurements
 - [Power Management](pi3_power_management.md) — PMIC and power rail details
 - [LAN9514 USB/Ethernet Hub](pi3_lan9514.md) — USB and Ethernet controller reference
