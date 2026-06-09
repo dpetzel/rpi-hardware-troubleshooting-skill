@@ -82,11 +82,11 @@ Use these for detailed diagnostic data when needed:
 - [references/pi5_pmic_breakdown.md](references/pi5_pmic_breakdown.md) — Pi 5 PMIC area component map and power rail identification
 - [references/pi5_test_point_voltages.md](references/pi5_test_point_voltages.md) — Pi 5 underside test point voltage reference (community-sourced)
 - [references/pi5_recovery.md](references/pi5_recovery.md) — Pi 5 rpiboot/usbboot recovery procedures for dead or bricked boards
-- [references/pi3_power_management.md](references/pi3_power_management.md) — Pi 3B/3B+ power architecture
+- [references/pi3/pi3_power_management.md](references/pi3/pi3_power_management.md) — Pi 3B/3B+ power architecture
   (PAM2306 vs MxL7704), polyfuse diagnostics, common failure modes
-- [references/pi3_test_points.md](references/pi3_test_points.md) — Pi 3B/3B+ test point map and diagnostic
+- [references/pi3/pi3_test_points.md](references/pi3/pi3_test_points.md) — Pi 3B/3B+ test point map and diagnostic
   voltage measurements
-- [references/pi3_lan9514.md](references/pi3_lan9514.md) — Pi 3B/3B+ LAN9514 USB/Ethernet hub chip failure
+- [references/pi3/pi3_lan9514.md](references/pi3/pi3_lan9514.md) — Pi 3B/3B+ LAN9514 USB/Ethernet hub chip failure
   diagnosis and troubleshooting
 
 ### Response Format
