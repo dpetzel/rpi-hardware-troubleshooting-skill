@@ -79,9 +79,9 @@ Use these for detailed diagnostic data when needed:
 - [references/led-codes.md](references/led-codes.md) — LED blink patterns and meanings
 - [references/peripheral-issues.md](references/peripheral-issues.md) — USB, GPIO, HDMI, camera, network, audio
 - [references/model-specs.md](references/model-specs.md) — Specs and known failure modes per model
-- [references/pi5_pmic_breakdown.md](references/pi5_pmic_breakdown.md) — Pi 5 PMIC area component map and power rail identification
-- [references/pi5_test_point_voltages.md](references/pi5_test_point_voltages.md) — Pi 5 underside test point voltage reference (community-sourced)
-- [references/pi5_recovery.md](references/pi5_recovery.md) — Pi 5 rpiboot/usbboot recovery procedures for dead or bricked boards
+- [references/pi5/pi5_pmic_breakdown.md](references/pi5/pi5_pmic_breakdown.md) — Pi 5 PMIC area component map and power rail identification
+- [references/pi5/pi5_test_point_voltages.md](references/pi5/pi5_test_point_voltages.md) — Pi 5 underside test point voltage reference (community-sourced)
+- [references/pi5/pi5_recovery.md](references/pi5/pi5_recovery.md) — Pi 5 rpiboot/usbboot recovery procedures for dead or bricked boards
 - [references/pi3/pi3_power_management.md](references/pi3/pi3_power_management.md) — Pi 3B/3B+ power architecture
   (PAM2306 vs MxL7704), polyfuse diagnostics, common failure modes
 - [references/pi3/pi3_test_points.md](references/pi3/pi3_test_points.md) — Pi 3B/3B+ test point map and diagnostic
