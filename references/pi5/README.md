@@ -6,6 +6,9 @@
 |-------|-----|-----|--------|
 | 5     |     | ![Pi 5 Board Top](pi5_board_top.png) | ![Pi 5 Board Bottom](pi5_board_bottom.png) |
 
+## Voltages
+- [Pi 5 Voltage Reference](pi5_voltage_references.md) — Color-coded voltage annotations for top and bottom of board
+
 ## Reference Documents
 - [PMIC Breakdown](pi5_pmic_breakdown.md) — Component identification and power rail mapping
 - [Test Point Voltages](pi5_test_point_voltages.md) — Expected voltage readings at test pads
