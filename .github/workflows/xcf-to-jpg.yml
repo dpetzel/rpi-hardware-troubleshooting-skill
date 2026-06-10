@@ -1,0 +1,41 @@
+name: Convert XCF to JPG
+
+on:
+  push:
+    paths:
+      - '**/*.xcf'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install GIMP
+        run: sudo apt-get update && sudo apt-get install -y gimp
+
+      - name: Convert changed XCF files to JPG
+        run: |
+          git diff --name-only HEAD~1 HEAD -- '*.xcf' | while IFS= read -r xcf; do
+            [ -f "$xcf" ] || continue
+            jpg="${xcf%.xcf}.jpg"
+            gimp -i -b "(let* ((image (car (gimp-file-load RUN-NONINTERACTIVE \"$xcf\" \"$xcf\")))
+                                (drawable (car (gimp-image-merge-visible-layers image CLIP-TO-IMAGE))))
+                          (file-jpeg-save RUN-NONINTERACTIVE image drawable \"$jpg\" \"$jpg\" 1.0 0 0 0 \"\" 0 0 0 2)
+                          (gimp-image-delete image))" -b "(gimp-quit 0)"
+            echo "Converted: $xcf -> $jpg"
+          done
+
+      - name: Commit JPG files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add '*.jpg'
+          if git diff --cached --quiet; then
+            echo "No JPG changes to commit"
+          else
+            git commit -m "Auto-generate JPG from XCF [skip ci]"
+            git push
+          fi
