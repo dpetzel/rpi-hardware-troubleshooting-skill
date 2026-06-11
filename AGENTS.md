@@ -36,7 +36,8 @@ codes:
 | Black  | `#1a1a1a` | Ground  |
 | Red    | `#e63226` | 5v      |
 | Orange | `#f5a623` | 3.3v    |
-| Blue   | `#4a90d9` | 1.8v   |
+| Blue   | `#4a90d9` | 1.8v    |
+| Brown  | `#895129` | 0.1v    |
 
 These voltage maps will be an on-going evolution. Each voltage image is created
 by starting with the board view image (top or bottom) opening that image in Gimp,
