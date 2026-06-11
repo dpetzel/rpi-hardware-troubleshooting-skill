@@ -4,8 +4,8 @@ is a breakdown of the PMIC area of the Pi 5 board. It represents the aggregation
 own testing and information available on the Internet.
 
 ## DA 9091 Pad Reference
-These were talking from a non working board, so needs verification. Measurements
-were taken on the board so you have to imagine the chip image was flip 180 degrees
+These were taken from a non working board, so needs verification. Measurements
+were taken on the board so you have to imagine the chip image was flipped 180 degrees
 on either of its vertical axis.
 
 Ground was established without power and testing continuity.
