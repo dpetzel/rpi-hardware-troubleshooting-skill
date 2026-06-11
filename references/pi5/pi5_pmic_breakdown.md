@@ -3,6 +3,20 @@ Very few resources seem to exist publicly documenting the POC and nearby compone
 is a breakdown of the PMIC area of the Pi 5 board. It represents the aggregation of my
 own testing and information available on the Internet.
 
+## DA 9091 Pad Reference
+These were talking from a non working board, so needs verification. Measurements
+were taken on the board so you have to imagine the chip image was flip 180 degrees
+on either of its vertical axis.
+
+Ground was established without power and testing continuity.
+
+5.3v was measured with the board plugged in and nothing else.These initial mapping was
+focused on what was connected directly to the USB C input. Its not an exhaustive live
+of 5v pads, but rather those pads which are getting 5v directly from the input rail. 
+These in theory represent the input the power to the PMIC itself. 
+
+![DA 9091 Input Voltages](./pi5_da9091_pad_reference.png)
+
 ## Components
 
 ![Indexed Component List](./raspberrypi5-pmic_area_indexed.png)
