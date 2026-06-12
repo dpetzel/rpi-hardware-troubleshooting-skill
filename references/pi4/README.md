@@ -4,7 +4,7 @@
 
 | Model | Rev | Top | Bottom |
 |-------|-----|-----|--------|
-| 4B    | 1.1 | ![Pi 4 Model B Board Top](pi4-b-board-top.jpg) | ![Pi 4 Model B Bottom](pi4-b-board-top.jpg) |
+| 4B    | 1.1 | ![Pi 4 Model B Board Top](pi4-b-board-top.jpg) | ![Pi 4 Model B Bottom](pi4-b-board-bottom.jpg) |
 | 4B    | 1.2 |     |        |
 | 4B    | 1.4 |     |        |
 | 4B    | 1.5 |     |        |
