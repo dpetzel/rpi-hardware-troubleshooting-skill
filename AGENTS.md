@@ -36,6 +36,7 @@ codes:
 | Black  | `#1a1a1a` | Ground  |
 | Red    | `#e63226` | 5v      |
 | Orange | `#f5a623` | 3.3v    |
+| Teal   | `#008080` | 2.4/2.5v|
 | Blue   | `#4a90d9` | 1.8v    |
 | Pink   | `#FFB6C1` | 1.5v    |
 | Purple | `#8F00FF` | 1.2v    |
